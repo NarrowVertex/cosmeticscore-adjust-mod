@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.narrowvertex.cam.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "cam.mixin.refmap.json",
+  "server": [
+  ],
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
