@@ -8,6 +8,9 @@
   "mixins": [
   ],
   "client": [
+    "ClientPacketListenerMixin",
+    "PlayerRendererMixin",
+    "RenderMixin"
   ],
   "minVersion": "0.8"
 }
